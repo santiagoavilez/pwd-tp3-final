@@ -1,0 +1,12 @@
+<h3>Información de la película</h3>
+                          <p><b>Título:</b> hola <br />
+                          <b>Actores:</b> prueba <br />
+                          <b>Director:</b> diseño <br />
+                          <b>Guión:</b> tp <br />
+                          <b>Producción:</b> 2021 <br />
+                          <b>A&ntilde;o:</b> 2000 <br />
+                          <b>Nacionalidad:</b> Argentina <br />
+                          <b>Genero:</b> Acción <br />
+                          <b>Duración:</b> 200 minutos<br />
+                          <b>Restricciones de edad:</b> Mayores de 18 A&ntilde;os <br />
+                          <b>Sinopsis:</b> prueba de form <br />
